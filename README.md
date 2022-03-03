@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 
-Sitema jogo de xadrez é uma aplicação back-end construída durante o curso Java Completo do professor Nélio Alves, com o intuíto de treinar o POO. Curso sendo feito através da plataforma de ensino [Udemy](https://www.udemy.com/course/java-curso-completo/) .
+Sistema jogo de xadrez é uma aplicação back-end construída durante o curso Java Completo do professor Nélio Alves, com o intuíto de treinar o POO. Curso sendo feito através da plataforma de ensino [Udemy](https://www.udemy.com/course/java-curso-completo/) .
 
 A aplicação consiste em um jogo de xadrez, onde o mesmo é jogado através de um terminal como o Git Bash.
 
